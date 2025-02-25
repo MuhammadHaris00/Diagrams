@@ -83,7 +83,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3aBxfAc6B3ISBCiD3E7I-6" value="Registration State" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="3aBxfAc6B3ISBCiD3E7I-6" value="Registration State" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="190" y="520" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3aBxfAc6B3ISBCiD3E7I-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3aBxfAc6B3ISBCiD3E7I-7" target="3aBxfAc6B3ISBCiD3E7I-7">
