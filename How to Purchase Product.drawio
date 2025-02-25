@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="QAjHrmbpK49pw4u4Q07A">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i6NySe_aq3tivdVzU8E7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="i6NySe_aq3tivdVzU8E7-2" target="i6NySe_aq3tivdVzU8E7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-2" value="Open&amp;nbsp;&lt;div&gt;Website&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="i6NySe_aq3tivdVzU8E7-3" target="i6NySe_aq3tivdVzU8E7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-3" value="Click on Add to Cart" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="i6NySe_aq3tivdVzU8E7-5" target="i6NySe_aq3tivdVzU8E7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-5" value="Go to Checkout" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="i6NySe_aq3tivdVzU8E7-6" target="i6NySe_aq3tivdVzU8E7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-6" value="Fill Payment Form" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="i6NySe_aq3tivdVzU8E7-7" target="i6NySe_aq3tivdVzU8E7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-7" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i6NySe_aq3tivdVzU8E7-8" value="Finish" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
